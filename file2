@@ -1,0 +1,11 @@
+WORKING DIRECTORY:
+In this stage git is only aware of having files in the project.
+It will not track these files until we commit those files.
+STAGING AREA:
+The staging area is like a rough draft space, it's where you can git add the version of a file
+or multiple files that you want to save in your next commit.
+In other words, in the next version of your project.
+REPOSITORY:
+Repository in Git is considered as your project folder.
+A repository has all the project-related data.
+It contains the collection of the files and also history of changes made to those files.
